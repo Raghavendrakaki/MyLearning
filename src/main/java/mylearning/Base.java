@@ -46,6 +46,8 @@ public class Base {
 	}
 
 	public static void main(String[] args) throws IOException {
+		
+		System.out.println("I'm the Test enginer");
 		Base.initializeDriver();
 	}
 
